@@ -7,7 +7,9 @@ export default class RightSideMenu extends Component {
         return ( 
             <div className="rightSidemenu">
                 <h3>Right Side menu</h3>
-                <p><Link value="Hey"></Link> </p>
+                <p>
+                    sss
+                </p>
             </div>
         );
     )
